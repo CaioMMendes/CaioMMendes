@@ -23,6 +23,8 @@
 <img align="center" alt="Mysql" height="30" width="40" title='Mysql' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
+<img  align="center" alt="Mysql" height="30" width="40" title='Git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
 
 ##
 
