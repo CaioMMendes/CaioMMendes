@@ -1,4 +1,4 @@
-### Olá! Eu sou o Caio Martins 🙂
+### Olá! 🙂
 <!-- <br>
 
 -  Atualmente estou estudando React, Tailwind, Typescript, NodeJs, Mysql -->
