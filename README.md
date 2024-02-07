@@ -17,12 +17,13 @@
 
 <img align="center" alt="Css" height="30" width="40" title='Css' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-<img align="center" alt="Tailwind" height="30" width="40" title='Tailwind' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-
+<img align="center" alt="Tailwind" height="30" width="40" title='Tailwind' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+          
 <img align="center" alt="Typescript" height="30" width="40" title='Typescript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 <img align="center" alt="NodeJs" height="30" width="40" title='NodeJs' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="NestJs" height="30" width="40" title='NestJs' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+          
+<img align="center" alt="NestJs" height="30" width="40" title='NestJs' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   
 <img align="center" alt="Postgresql" height="30" width="40" title='Postgresql' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="center" alt="Mysql" height="30" width="40" title='Mysql' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
