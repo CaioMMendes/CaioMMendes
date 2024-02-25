@@ -8,7 +8,8 @@
 <div style='display:inline_block'>
 <img align="center" alt="React" height="30" width="40" title='React' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="center" alt="Nextjs"  height="30" width="30" title='Nextjs' src="https://cdn.discordapp.com/attachments/958946333027348510/1112563200639107193/a_1.png" />
+<img align="center" alt="Nextjs"  height="30" width="30" title='Nextjs' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+          
           
   
 <img align="center" alt="Javascript"  height="30" title='Javascript' width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
