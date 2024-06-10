@@ -2,7 +2,7 @@
 
 
 
-<p>Tecnologias que estou praticando:</p>
+<p>Tecnologias que utilizo:</p>
 
 <div style='display:inline_block'>
           
@@ -24,7 +24,7 @@
 
 <img align="center" alt="Docker" height="40" width="40" title='Docker' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
           
-<img align="center" alt="NestJs" height="30" width="40" title='NestJs' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<!--<img align="center" alt="NestJs" height="30" width="40" title='NestJs' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />-->
   
 <img align="center" alt="Postgresql" height="30" width="40" title='Postgresql' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
